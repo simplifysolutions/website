@@ -11,7 +11,7 @@
             <xpath expr="//group[@name='other']" position="after">
                 <group name="price_tier_setting">
                     <div id="show_implicit_price_tier_setting">
-                            <field name="show_implicit_prcd wice_tier"/>
+                            <field name="show_implicit_price_tier"/>
                             <label for="show_implicit_price_tier"/>
                             <div class="text-muted">
                                 Add implicit tier with quantity 1 to all product pages irrespective of price rule quantity cutoffs
