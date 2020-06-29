@@ -14,6 +14,7 @@
     'depends': [
         'uom',
         'website_sale',
+        'base_sparse_field',
     ],
     'data': [
         'security/ir.model.access.csv',
